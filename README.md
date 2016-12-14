@@ -1,1 +1,1 @@
-# PlantMontoringSystem
+I have used Particle photon to create the plant monitoring system that detect the moisture level of the soil and the temperature. There is also a RBG light to show if the condition is proper or not (Green denotes good and Red denotes Bad).
